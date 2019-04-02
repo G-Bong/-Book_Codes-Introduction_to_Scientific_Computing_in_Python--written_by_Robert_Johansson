@@ -1,4 +1,4 @@
-#  Reproduced Codes for [Book]Introduction to Scientific Computing in Python written by Robert-Johansson
+#  Reproduced Codes for [Book]Introduction to Scientific Computing in Python written by Robert Johansson
 
 This repository has reproduced codes when it is created during studying the book, Introduction to Scientific Computing in Python by Rovert Johansson.
 
